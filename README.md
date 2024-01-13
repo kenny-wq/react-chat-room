@@ -1,4 +1,17 @@
 # React Chat Room
+## live demo
+- link https://react-chat-room-vercel-oovh.vercel.app/
+  
+- test account:
+  
+- account1
+- email:user@email.com
+- password:123456
+- 
+- account2
+- email:user3@email.com
+- password:123456
+- 
 ## Tech stack
 - react
 - firebase
