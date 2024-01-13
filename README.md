@@ -15,7 +15,7 @@
 ## Tech stack
 - react
 - firebase
-- scss
+- sass
 
 ## Description
 A simple chat room that user can register, login, logout and chat with other users.
